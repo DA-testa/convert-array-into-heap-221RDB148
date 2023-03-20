@@ -46,7 +46,7 @@ def main():
 
     # TODO: output how many swaps were made, 
     # this number should be less than 4n (less than 4*len(data))
-    
+    print("asd")
 
 
 
